@@ -49,27 +49,35 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 </div>
 </div> -->
 
-- 
+## Conferences
+- ViDeBERTa: A powerful pre-trained language model for Vietnamese by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (EACL 2023)
+- A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
+Sensor Networks, by *Tran Cong Dao*, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (CEC 2021)
+## Jounals
+- A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Tran Cong Dao**, Huynh Thi Thanh Binh, Applied Intelligence
+- Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
+Thang, **Tran Cong Dao**, Huynh Thi Thanh Binh, Memetic Computing
+## Preprints
 
 # 🎖 Honors and Awards
-- *2022.07*, First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
-- *2021.11*, Scholarships for Master and Doctoral Training in Vietnam - VinIF
-- *2021.07*, Best Thesis Presentation Award - School of Information and Communication Technology - Hanoi University of Science and Technology
-- *2021.05*,  Second Prize in the Scientific Research Student Award - Hanoi University of Science and Technology
-- *2021.03*, Excellence Scholarship for the academic year - Hanoi University of Science and Technology
-- *2020.06*, Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
-- *2020.06*, Third Prize of Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
+- *2022.07*: First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
+- *2021.11*: Scholarships for Master and Doctoral Training in Vietnam - VinIF
+- *2021.07*: Best Thesis Presentation Award - School of Information and Communication Technology - Hanoi University of Science and Technology
+- *2021.05*:  Second Prize in the Scientific Research Student Award - Hanoi University of Science and Technology
+- *2021.03*: Excellence Scholarship for the academic year - Hanoi University of Science and Technology
+- *2020.06*: Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
+- *2020.06*: Third Prize of Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
 
 
 # 📖 Educations
-- *2022.01 - 2023.10 (now)*, Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
-- *2017.09 - 2021.10*, Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology. 
+- *2022.01 - 2023.10 (now)*: Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
+- *2017.09 - 2021.10*: Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2022.07 - present*, Research Resident at FPT Software AI Center
-- *2021.03 - 2022.12*, Research Assistant at The International Research Center for Artificial Intelligence (BK.AI), HUST
-- *2019.03 - 2022.12*, Research Assistant at The Modelling, Simulation, and Optimization Laboratory (MSO), HUST
+- *2022.07 - present*: Research Resident at FPT Software AI Center
+- *2021.03 - 2022.12*: Research Assistant at The International Research Center for Artificial Intelligence (BK.AI), HUST
+- *2019.03 - 2022.12*: Research Assistant at The Modelling, Simulation, and Optimization Laboratory (MSO), HUST
