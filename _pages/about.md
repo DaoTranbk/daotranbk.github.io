@@ -72,7 +72,7 @@ Thang, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Memetic Computing*
 
 
 # 📖 Educations
-- *2022.01 - 2023.10 (now)*: Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
+- *2022.01 - 2023.10 (now)*: Master's degree in Data Science and Artificial Intelligence at School of Information and Communication Technology, Hanoi University of Science and Technology.
 - *2017.09 - 2021.10*: Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology. 
 
 <!-- # 💬 Invited Talks
