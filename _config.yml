@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dao Tran"
+title                    : "Cong Dao Tran"
 description              : "AI Research Resident at FPT Software AI Center, Vietnam"
 repository               : "DaoTranbk/congdaotran.github.io"
 google_scholar_stats_use_cdn : false

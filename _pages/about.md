@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-I am currently an AI Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/) under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/), a Postdoctoral Fellow and Lecturer at the University of California San Diego, USA. I holds a bachelor's degree in computer science and am currently pursuing a master’s degree at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
+I am currently an AI Research Resident under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/) at [FPT Software AI Center](https://www.fpt-aicenter.com/). I holds a Bachelor's degree in Computer Science and am currently pursuing a Master’s degree in Data Science and Artificial Intelligience at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
 
 Prior to his current position, I worked as a Research Assistant under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the Modelling, Simulation, and Optimization Laboratory (MSO Lab), SOICT, HUST, and I published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
 
@@ -39,31 +39,27 @@ Prior to his current position, I worked as a Research Assistant under the superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A greedy search based evolutionary algorithm for electric vehicle routing problem](https://link.springer.com/article/10.1007/s10489-022-03555-8)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.07* Best Thesis Presentation Award - School of Information and Communication Technology, Hanoi University of Science and Technology
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.01 - 2023.03 (now)*, Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
+- *2017.09 - 2021.10*, Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
