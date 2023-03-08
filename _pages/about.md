@@ -39,7 +39,7 @@ Prior to his current position, I worked as a Research Assistant under the superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence</div></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A greedy search based evolutionary algorithm for electric vehicle routing problem](https://link.springer.com/article/10.1007/s10489-022-03555-8)
@@ -47,7 +47,9 @@ Prior to his current position, I worked as a Research Assistant under the superv
 Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 
 </div>
-</div>
+</div> -->
+
+- 
 
 # 🎖 Honors and Awards
 - *2022.07* First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
