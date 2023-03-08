@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Biography"
-    url: "/congdaotran.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/congdaotran.github.io/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/congdaotran.github.io/#-publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/congdaotran.github.io/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/congdaotran.github.io/#-educations"
+    url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Experiences"
-    url: "/congdaotran.github.io/#-experiences"
+    url: "/#-experiences"
