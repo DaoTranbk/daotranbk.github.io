@@ -26,8 +26,7 @@ Prior to his current position, he worked as a Research Assistant under the super
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01*: 🎉🎉 Our paper ["ViDeBERTa: A powerful pre-trained language model for Vietnamese"](https://arxiv.org/pdf/2301.10439.pdf) got accepted at EACL 2023!. 
 
 # 📝 Publications 
 
