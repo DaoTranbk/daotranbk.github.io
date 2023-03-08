@@ -52,12 +52,13 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 - 
 
 # 🎖 Honors and Awards
-- *2022.07* First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
-- *2021.11* Scholarships for Master and Doctoral Training in Vietnam - VinIF
-- *2021.07* Best Thesis Presentation Award - School of Information and Communication Technology, Hanoi University of Science and Technology
-- *2021.06* Excellence Scholarship for the academic year - Hanoi University of Science and Technology
-- *2020.06* Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
-- *2020.06* Third Prize of Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
+- *2022.07*, First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
+- *2021.11*, Scholarships for Master and Doctoral Training in Vietnam - VinIF
+- *2021.07*, Best Thesis Presentation Award - School of Information and Communication Technology - Hanoi University of Science and Technology
+- *2021.05*,  Second Prize in the Scientific Research Student Award - Hanoi University of Science and Technology
+- *2021.03*, Excellence Scholarship for the academic year - Hanoi University of Science and Technology
+- *2020.06*, Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
+- *2020.06*, Third Prize of Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
 
 
 # 📖 Educations
