@@ -20,7 +20,8 @@ redirect_from:
 # About me
 
 Tran Cong Dao is currently an AI Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/) under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/), a Postdoctoral Fellow and Lecturer at the University of California San Diego, USA. He holds a bachelor's degree in computer science and is currently pursuing a master’s degree at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST), Vietnam. His research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
-Prior to his current position, he worked as a Research Assistant at the Modelling, Simulation, and Optimization Laboratory (MSO Lab), SOICT, HUST, and has published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
+
+Prior to his current position, he worked as a Research Assistant under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the Modelling, Simulation, and Optimization Laboratory (MSO Lab), SOICT, HUST, and has published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
 
 
 
