@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='biography'></span>
 
-# About me
+# Biography
 
 I am currently an AI Research Resident under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/) at [FPT Software AI Center](https://www.fpt-aicenter.com/). I holds a Bachelor's degree in Computer Science and am currently pursuing a Master’s degree in Data Science and Artificial Intelligience at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
 
