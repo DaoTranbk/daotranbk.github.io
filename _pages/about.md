@@ -26,7 +26,7 @@ Prior to his current position, I worked as a Research Assistant under the superv
 
 
 # 🔥 News
-- *2023.01*: 🎉🎉 Our paper ["ViDeBERTa: A powerful pre-trained language model for Vietnamese"](https://arxiv.org/pdf/2301.10439.pdf) got accepted at EACL 2023!. 
+- *2023.01*: 🎉🎉 Our paper ["ViDeBERTa: A powerful pre-trained language model for Vietnamese"](https://arxiv.org/pdf/2301.10439.pdf) got accepted at EACL 2023!
 
 <!-- <details>
   <summary>Old news</summary>
@@ -59,12 +59,14 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 
 
 # 📖 Educations
-- *2022.01 - 2023.03 (now)*, Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
+- *2022.01 - 2023.10 (now)*, Master's degree in Data Science and Artificial Intelligent at School of Information and Communication Technology, Hanoi University of Science and Technology.
 - *2017.09 - 2021.10*, Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Experience
+- *2022.07 - present* Research Resident at FPT Software AI Center
+- *2021.03 - 2022.12*, Research Assistant at The International Research Center for Artificial Intelligence (BK.AI), HUST
+- *2019.03 - 2022.12*, Research Assistant at The Modelling, Simulation, and Optimization Laboratory (MSO), HUST
