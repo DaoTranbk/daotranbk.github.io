@@ -70,6 +70,6 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2022.07 - present* Research Resident at FPT Software AI Center
+- *2022.07 - present*, Research Resident at FPT Software AI Center
 - *2021.03 - 2022.12*, Research Assistant at The International Research Center for Artificial Intelligence (BK.AI), HUST
 - *2019.03 - 2022.12*, Research Assistant at The Modelling, Simulation, and Optimization Laboratory (MSO), HUST
