@@ -53,10 +53,12 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 - ViDeBERTa: A powerful pre-trained language model for Vietnamese by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (EACL 2023)
 - A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
 Sensor Networks, by *Tran Cong Dao*, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (CEC 2021)
+
 ## Jounals
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Tran Cong Dao**, Huynh Thi Thanh Binh, Applied Intelligence
 - Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
 Thang, **Tran Cong Dao**, Huynh Thi Thanh Binh, Memetic Computing
+
 ## Preprints
 
 # 🎖 Honors and Awards
