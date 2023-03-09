@@ -57,7 +57,7 @@ Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi 
 ## Jounals
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Applied Intelligence*
 - Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
-Thang, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Memetic Computing*
+Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
 
 ## Preprints
 
