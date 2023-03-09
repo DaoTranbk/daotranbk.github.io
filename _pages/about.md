@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently an AI Research Resident under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/) at [FPT Software AI Center](https://www.fpt-aicenter.com/). I holds a Bachelor's degree in Computer Science and am currently pursuing a Master’s degree in Data Science and Artificial Intelligience at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
 
-Prior to my current position, I worked as a Research Assistant under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the Modelling, Simulation, and Optimization Laboratory (MSO Lab), SOICT, HUST, and I published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
+Prior to my current position, I worked as a Research Assistant under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the [Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO Lab), SOICT, HUST, and I published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
 
 
 
@@ -80,6 +80,6 @@ Thang, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Memetic Computing*
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
-- *2022.07 - present*: Research Resident at FPT Software AI Center
-- *2021.03 - 2022.12*: Research Assistant at The International Research Center for Artificial Intelligence (BK.AI), HUST
-- *2019.03 - 2022.12*: Research Assistant at The Modelling, Simulation, and Optimization Laboratory (MSO), HUST
+- *2022.07 - present*: Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/)
+- *2021.03 - 2022.12*: Research Assistant at [The International Research Center for Artificial Intelligence](https://bkai.ai/) (BK.AI), HUST
+- *2019.03 - 2022.12*: Research Assistant at [The Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO), HUST
