@@ -54,7 +54,7 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 - A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
 
-## Jounals
+## Journals
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Applied Intelligence*
 - Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
 Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
