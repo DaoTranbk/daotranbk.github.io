@@ -82,4 +82,5 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 # 💻 Experiences
 - *2022.07 - present*: Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/)
 - *2021.03 - 2022.06*: Research Assistant at [The International Research Center for Artificial Intelligence](https://bkai.ai/) (BK.AI), HUST
+- *2020.11 - 2021.03*: Teaching Assistant at [School of Information and Communication Technology](https://soict.hust.edu.vn/), HUST
 - *2019.03 - 2022.06*: Research Assistant at [The Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO), HUST
