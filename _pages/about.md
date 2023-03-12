@@ -60,6 +60,11 @@ Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi 
 Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
 
 ## Preprints
+- MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms, by **Cong Dao Tran**, Do Tuan Anh, Huynh Thi Thanh Binh, Do Duc Anh, Ban Ha Bang, Phan Bach Su, *under review*
+- An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *under review*
+- Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *under review*
+- Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *under review* 
+
 
 # 🎖 Honors and Awards
 - *2022.06*: First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
