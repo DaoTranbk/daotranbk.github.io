@@ -26,6 +26,7 @@ Prior to my current position, I worked as a Research Assistant under the supervi
 
 
 # 🔥 News
+- *2023.03*: 🎉🎉 Our paper "MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms" got accepted at GECCO 2023!
 - *2023.01*: 🎉🎉 Our paper ["ViDeBERTa: A powerful pre-trained language model for Vietnamese"](https://arxiv.org/pdf/2301.10439.pdf) got accepted at EACL 2023!
 
 <!-- <details>
