@@ -53,6 +53,7 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 </div> -->
 
 ## Conferences
+- MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms, by **Cong Dao Tran**, Do Tuan Anh, Huynh Thi Thanh Binh, Do Duc Anh, Ban Ha Bang, Phan Bach Su, (*GECCO 2023*)
 - ViDeBERTa: A powerful pre-trained language model for Vietnamese, by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (*EACL 2023*) [[paper](https://arxiv.org/abs/2301.10439), [poster](https://drive.google.com/file/d/1DSQhg3z7FDxGsjAONhBpWMIU8_xLT1o5/view?usp=sharing), [video](https://youtu.be/rsh8oCl7Woc)]
 - A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
@@ -63,7 +64,6 @@ Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi 
 Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
 
 ## Preprints
-- MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms, by **Cong Dao Tran**, Do Tuan Anh, Huynh Thi Thanh Binh, Do Duc Anh, Ban Ha Bang, Phan Bach Su, *under review*
 - An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *under review*
 - Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *under review*
 - Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *under review* 
