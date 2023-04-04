@@ -20,7 +20,7 @@ redirect_from:
 # Biography
 
 Hi there, Welcome to my page! 
-
+g
 I am currently an AI Research Resident under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/) at [FPT Software AI Center](https://www.fpt-aicenter.com/), Vietnam. I hold a Bachelor's degree in Computer Science and am currently pursuing a Master’s degree in Data Science and Artificial Intelligence at the [School of Information and Communication Technology](https://soict.hust.edu.vn/en/) (SOICT), [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
 
 Prior to my current position, I worked as a Research Assistant under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the [Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO Lab), SOICT, HUST, and I published several papers in prestigious journals and conferences, such as Memetic Computing, Applied Intelligence, and Congress on Evolutionary Computation.
@@ -53,7 +53,7 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 </div> -->
 
 ## Conferences
-- ViDeBERTa: A powerful pre-trained language model for Vietnamese, by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (*EACL 2023*)
+- ViDeBERTa: A powerful pre-trained language model for Vietnamese, by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (*EACL 2023*) [paper](https://arxiv.org/abs/2301.10439)[poster](https://drive.google.com/file/d/1DSQhg3z7FDxGsjAONhBpWMIU8_xLT1o5/view?usp=sharing)[video](https://youtu.be/rsh8oCl7Woc)
 - A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
 
