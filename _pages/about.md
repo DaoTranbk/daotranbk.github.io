@@ -77,6 +77,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 - *2021.03*: Excellent Scholarship for the academic year - Hanoi University of Science and Technology
 - *2020.06*: Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
 - *2020.06*: Third Prize in Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
+- *2017*: Excellent score in National University Exam (30.4/30, 1 regional priority point)
 - *2014,2015,2017*: Second Prize in Provincial Excellent Student in Mathematics
 
 
