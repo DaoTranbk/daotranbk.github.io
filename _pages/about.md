@@ -70,7 +70,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 
 
 # 🎖 Honors and Awards
-- *2021, 2022*: First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2022
+- *2021, 2022*: First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence
 - *2021*: Scholarships for Master and Doctoral Training in Vietnam - VinIF
 - *2021*: Best Thesis Presentation Award - School of Information and Communication Technology - Hanoi University of Science and Technology
 - *2021*:  Second Prize in the Scientific Research Student Award - Hanoi University of Science and Technology
@@ -78,7 +78,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 - *2020*: Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
 - *2020*: Third Prize in Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
 - *2017*: Excellent score in National University Exam (30.4/30, 1 regional priority point)
-- *2014,2015,2017*: Second Prize in Provincial Excellent Student in Mathematics
+- *2014, 2015, 2017*: Second Prize in Provincial Excellent Student in Mathematics
 
 
 # 📖 Educations
