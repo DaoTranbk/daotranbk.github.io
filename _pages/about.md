@@ -62,9 +62,9 @@ Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi 
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Applied Intelligence*
 - Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
 Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
+- An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *Journal of Ambient Intelligence and Humanized Computing*
 
 ## Preprints
-- An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *under review*
 - Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *under review*
 - Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *under review* 
 
