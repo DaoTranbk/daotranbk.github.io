@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Biography
+# About me
 
 Hi there, Welcome to my page! 
 
