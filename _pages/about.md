@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-Hi there, Welcome to my page! 
+Hi there, welcome to my personal page! 
 
 I am currently an AI Research Resident under the supervision of [Dr. Hy Truong Son](http://people.cs.uchicago.edu/~hytruongson/) at [FPT Software AI Center](https://www.fpt-aicenter.com/), Vietnam. I hold a Bachelor's degree in Computer Science and am currently pursuing a Master’s degree in Data Science and Artificial Intelligence under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the [School of Information and Communication Technology](https://soict.hust.edu.vn/en/) (SOICT), [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST), Vietnam. My research interests include natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. 
 
