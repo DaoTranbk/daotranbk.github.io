@@ -78,7 +78,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 - *2020*: Runner up in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence 2020
 - *2020*: Third Prize in Competition on Electric Vehicle Routing Problem - IEEE World Congress on Computational Intelligence 2020
 - *2017*: Excellent score in National University Exam (30.4/30, 1 regional priority point)
-- *2014, 2015, 2017*: Second Prize in Provincial Excellent Student in Mathematics
+- *2014, 2015, 2017*: First Second Prize in Provincial Excellent Student in Mathematics
 
 
 # 📖 Educations
