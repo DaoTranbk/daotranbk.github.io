@@ -70,6 +70,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 
 
 # 🎖 Honors and Awards
+- *2023*: Scholarship for Master and Doctoral Training in Vietnam (~2,500 USD) - [Vingroup Innovation Foundation](https://vinif.org/en/) (VinIF)
 - *2021, 2022*: First Prize in Competition on Evolutionary Multi-task Optimization, Multi-task single-objective optimization - IEEE World Congress on Computational Intelligence
 - *2021*: Full Scholarship for Master and Doctoral Training in Vietnam (~5,000 USD) - [Vingroup Innovation Foundation](https://vinif.org/en/) (VinIF)
 - *2021*: Best Thesis Presentation Award - School of Information and Communication Technology - Hanoi University of Science and Technology
