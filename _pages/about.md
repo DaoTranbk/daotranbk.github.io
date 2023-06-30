@@ -53,7 +53,7 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 </div> -->
 
 ## Conferences
-- MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms, by **Cong Dao Tran**, Do Tuan Anh, Huynh Thi Thanh Binh, Do Duc Anh, Ban Ha Bang, Su Nguyen, (*GECCO 2023*)  [[paper](https://www.researchgate.net/publication/370155027_MNDE_Node-depth_encoding_can_do_better_in_evolutionary_multitask_algorithms_GECCO-2023), [poster](https://drive.google.com/file/d/1gQjzlM763gTjaAisACnRwE_c2rcH0YYy/view?usp=sharing)] 
+- MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms, by **Cong Dao Tran**, Do Tuan Anh, Huynh Thi Thanh Binh, Do Duc Anh, Ban Ha Bang, Su Nguyen, (*GECCO 2023*)  [[paper](https://www.researchgate.net/publication/370155027_MNDE_Node-depth_encoding_can_do_better_in_evolutionary_multitask_algorithms_GECCO-2023), [poster](https://drive.google.com/file/d/14BamDd35iQk_-uKrQvikykohMcElUXus/view?usp=sharing)] 
 - ViDeBERTa: A powerful pre-trained language model for Vietnamese, by **Cong Dao Tran**, Nhut Huy Pham, Anh Nguyen, Truong Son Hy, Tu Vu, The European Chapter of the ACL (*EACL 2023*) [[paper](https://arxiv.org/abs/2301.10439), [poster](https://drive.google.com/file/d/1DSQhg3z7FDxGsjAONhBpWMIU8_xLT1o5/view?usp=sharing)]
 - A Multifactorial Evolutionary Algorithm For Minimum Energy Cost Data Aggregation Tree In Wireless
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
