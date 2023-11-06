@@ -59,15 +59,16 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
 
 ## Journals
+- Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *Engineering Applications of Artificial Intelligence*
+- Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *Knowledge-Based Systems* 
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Applied Intelligence*
 - Parameter Adaptation in Multifactorial Evolutionary Algorithm for Many-task Optimization, by Ta Bao
 Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Computing*
 - An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *Journal of Ambient Intelligence and Humanized Computing*
 
 ## Preprints
-- Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *under review*
-- Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *under review* 
-
+- Symmetry-preserving graph attention network to solve routing problems at multiple resolutions, by **Cong Dao Tran**, Thong Bach, Truong Son Hy *under review*
+- Graph Attention-based Deep Reinforcement Learning for solving the Chinese Postman Problem with Load-dependent costs, by **Cong Dao Tran**, Truong Son Hy *under review*
 
 # 🎖 Honors and Awards
 - *2023*: Scholarship for Master and Doctoral Training in Vietnam (~2,500 USD) - [Vingroup Innovation Foundation](https://vinif.org/en/) (VinIF)
