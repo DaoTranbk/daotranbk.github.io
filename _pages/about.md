@@ -68,8 +68,8 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 - An energy efficient scheme for maximizing data aggregation tree lifetime in wireless sensor network, by **Cong Dao Tran**, Nguyen Thi Tam, Nguyen Quang Quy, Huynh Thi Thanh Binh, *Journal of Ambient Intelligence and Humanized Computing*
 
 ## Preprints
-- Symmetry-preserving graph attention network to solve routing problems at multiple resolutions, by **Cong Dao Tran**, Thong Bach, Truong Son Hy *under review*
-- Graph Attention-based Deep Reinforcement Learning for solving the Chinese Postman Problem with Load-dependent costs, by **Cong Dao Tran**, Truong Son Hy *under review*
+- Symmetry-preserving graph attention network to solve routing problems at multiple resolutions, by **Cong Dao Tran** et al., *under review*
+- Graph Attention-based Deep Reinforcement Learning for solving the Chinese Postman Problem with Load-dependent costs, by **Cong Dao Tran** et al., *under review*
 
 # 🎖 Honors and Awards
 - *2023*: Scholarship for Master and Doctoral Training in Vietnam (~2,500 USD) - [Vingroup Innovation Foundation](https://vinif.org/en/) (VinIF)
