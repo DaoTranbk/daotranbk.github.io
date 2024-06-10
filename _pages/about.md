@@ -28,8 +28,9 @@ Prior to my current position, I worked as a Research Assistant under the supervi
 
 
 # 🔥 News
-- *2023.03*: 🎉🎉 Our paper "MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms" got accepted at GECCO 2023!
-- *2023.01*: 🎉🎉 Our paper ["ViDeBERTa: A powerful pre-trained language model for Vietnamese"](https://arxiv.org/pdf/2301.10439.pdf) got accepted at EACL 2023!
+- *2024.02*: 🎉🎉 Our paper "Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks" has been publised at  Engineering Applications of Artificial Intelligence (*rank Q1, IF: 8.0*)!
+- *2023.03*: 🎉🎉 Our paper "MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms" got accepted at GECCO 2023 (*rank A*)!
+- *2023.01*: 🎉🎉 Our paper "ViDeBERTa: A powerful pre-trained language model for Vietnamese" got accepted at EACL 2023 (*rank A*)!
 
 <!-- <details>
   <summary>Old news</summary>
@@ -59,7 +60,7 @@ Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh
 Sensor Networks, by **Cong Dao Tran**, Tran Huy Hung, Nguyen Thi Tam, Huynh Thi Thanh Binh, IEEE Congress on Evolutionary Computation (*CEC 2021*)
 
 ## Journals
-- A Hybrid and Adaptive Evolutionary Approach for Multitask Optimization of Post-Disaster Traveling Salesman and Repairman Problems, by Ban Ha Bang et al., *Computers and Operations Research*
+- A Hybrid and Adaptive Evolutionary Approach for Multitask Optimization of Post-Disaster Traveling Salesman and Repairman Problems, by Ban Ha Bang, Huynh Thi Thanh Binh, Tuan Anh Do, **Cong Dao Tran**, Su Nguyen, *Computers and Operations Research*
 - Node depth representation-based evolutionary multitasking optimization for maximizing the network lifetime of wireless sensor networks, by **Cong Dao Tran**, Nguyen Thi Tam, Huynh Thi Thanh Binh, *Engineering Applications of Artificial Intelligence*
 - Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem, by Do Tuan Anh, Huynh Thi Thanh Binh, Do Luong Kien, Nguyen Hoang Long, **Cong Dao Tran**, Ban Ha Bang, *Knowledge-Based Systems* 
 - A Greedy Search based Evolutionary Algorithm for Electric Vehicle Routing problem, by Vu Quoc Hien, **Cong Dao Tran**, Huynh Thi Thanh Binh, *Applied Intelligence*
