@@ -28,9 +28,9 @@ Prior to my current position, I worked as a Research Assistant under the supervi
 
 
 # 🔥 News
-- *2024.02*: 🎉🎉 Our paper "Node depth Representation-based Evolutionary Multitasking Optimization for Maximizing the Network Lifetime of Wireless Sensor Networks" has been publised at  Engineering Applications of Artificial Intelligence (*rank Q1, IF: 8.0*)!
-- *2023.03*: 🎉🎉 Our paper "MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms" got accepted at GECCO 2023 (*rank A*)!
-- *2023.01*: 🎉🎉 Our paper "ViDeBERTa: A powerful pre-trained language model for Vietnamese" got accepted at EACL 2023 (*rank A*)!
+- *2024.02*: 🎉🎉 Our paper [Node depth Representation-based Evolutionary Multitasking Optimization for Maximizing the Network Lifetime of Wireless Sensor Networks](https://www.sciencedirect.com/science/article/abs/pii/S0952197623016470) has been publised at  **Engineering Applications of Artificial Intelligence** (*rank Q1, IF: 8.0*)!
+- *2023.03*: 🎉🎉 Our paper [MNDE: Node-depth based Encodings can do better in Multitasking Evolutionary Algorithms](https://dl.acm.org/doi/abs/10.1145/3583133.3590717) has been accepted at **GECCO 2023** (*rank A*)!
+- *2023.01*: 🎉🎉 Our paper [ViDeBERTa: A powerful pre-trained language model for Vietnamese](https://arxiv.org/abs/2301.10439) has been accepted at **EACL 2023** (*rank A*)!
 
 <!-- <details>
   <summary>Old news</summary>
