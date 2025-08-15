@@ -24,6 +24,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
+Hi there, welcome to my personal page! 
 
 I am currently an AI Researcher at [FPT Software AI Center](https://www.fpt-aicenter.com/), Vietnam (previously AI Research Resident under the supervision of Dr. Hoang Thanh Tung). I hold a Master's degree in Data Science and Artificial Intelligence and a Bachelor's degree in Computer Science under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the [School of Information and Communication Technology](https://soict.hust.edu.vn/en/) (SOICT), [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST), Vietnam. 
 
