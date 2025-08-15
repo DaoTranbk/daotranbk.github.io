@@ -29,8 +29,8 @@ My research interests lie in the intersection of optimization, artificial intell
 # 🔥 News
 - *2025.07*: 🏆 **First Runner-up** in Competition on LLM-designed Evolutionary Algorithms at **GECCO 2025** (*rank A*)!!
 - *2025.07*: 🏆 **First Runner-up** in Competition on Numerical Global Optimization Competition on GNBG-Il generated Test Suite at **GECCO 2025** (*rank A*)!!
-- *2025.05*: 🎉🎉 Our paper "Diffusion Directed Acyclic Transformer for Non-Autoregressive Machine Translation" has been accepted at **ACL 2025** (*rank A**)!
-- *2025.04*: 🎉🎉 Our paper "Large Language Models powered Neural Solvers for Vehicle Routing Problems" received **Best Paper Honorable Mention** at **ICLR Workshop on Agentic AI 2025** (*rank A**)!
+- *2025.05*: 🎉🎉 Our paper "Diffusion Directed Acyclic Transformer for Non-Autoregressive Machine Translation" has been accepted at **ACL 2025** (*rank A\**)!
+- *2025.04*: 🎉🎉 Our paper "Large Language Models powered Neural Solvers for Vehicle Routing Problems" received **Best Paper Honorable Mention** at **ICLR Workshop on Agentic AI 2025** (*rank A\**)!
 
 - *2025.04*: 🎉🎉 Our paper "Multi-Hop Routing for IoT-Based Digital Twin: Novel Metaheuristic Approaches" has been published in **IEEE Internet of Things Journal** (*rank Q1*)!
 - *2024.02*: 🎉🎉 Our paper [Node depth Representation-based Evolutionary Multitasking Optimization for Maximizing the Network Lifetime of Wireless Sensor Networks](https://www.sciencedirect.com/science/article/abs/pii/S0952197623016470) has been publised at  **Engineering Applications of Artificial Intelligence** (*rank Q1, IF: 8.0*)!
