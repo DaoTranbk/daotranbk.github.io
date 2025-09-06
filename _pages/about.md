@@ -99,7 +99,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 
 
 # 📖 Educations
-- *2022.01 - 2023.10 (now)*: Master's degree in Data Science and Artificial Intelligence at School of Information and Communication Technology, Hanoi University of Science and Technology.
+- *2022.01 - 2023.10*: Master's degree in Data Science and Artificial Intelligence at School of Information and Communication Technology, Hanoi University of Science and Technology.
 - *2017.09 - 2021.10*: Bachelor's degree in Computer Science at School of Information and Communication Technology, Hanoi University of Science and Technology (Top 1%). 
 
 <!-- # 💬 Invited Talks
@@ -107,8 +107,7 @@ Thang, **Cong Dao Tran**, Nguyen Hoang Long, Huynh Thi Thanh Binh, *Memetic Comp
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
-- *2025.02 - present*: AI Researcher at [FPT Software AI Center](https://www.fpt-aicenter.com/)
-- *2023.02 - 2025.01*: AI Research Assistant at [The International Research Center for Artificial Intelligence](https://bkai.ai/) (BK.AI), HUST
+- *2023.09 - present*: AI Researcher (previously AI Research Resident) at [FPT Software AI Center](https://www.fpt-aicenter.com/)
 - *2022.06 - 2022.09*: Trainee at VinBigdata - Vingroup AI Engineer Training Program
 - *2020.11 - 2021.03*: Teaching Assistant at [School of Information and Communication Technology](https://soict.hust.edu.vn/), HUST
-- *2019.03 - 2022.06*: Research Assistant at [The Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO), HUST
+- *2019.03 - 2022.06*: Research Assistant at [The Modelling, Simulation, and Optimization Laboratory](http://mso.soict.hust.edu.vn/) (MSO) and [The International Research Center for Artificial Intelligence](https://bkai.ai/) (BK.AI), HUST
